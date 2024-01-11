@@ -1,0 +1,1 @@
+print("sadness 99.71459 \njoy 39.86946 \nlove 26.70146 \nanger 89.85024 \nfear 57.04608 \nsurprise 7.530647 ")
